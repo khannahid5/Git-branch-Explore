@@ -7,3 +7,11 @@ ol {
     color: blue;
     background-color: gray;
 }
+
+#Set-background {
+    height: 700px;
+    width: 100%px;
+    background-position: center;
+    background-image: url('../image1.jpg');
+    background-size: cover;
+}
